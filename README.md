@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, i'm Caleb
+I am an aspiring Cloud Engineer currently developing my skills for the AWS SAA-C03 exam.
 
-<!--
-**Caleb-source101/Caleb-source101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills:
+AWS - EC2, S3, IAM, VPC
+Linux - Ubuntu, Bash, SSH
+Networking - TCP/IP, DNS Subnetting
+Tools - Git, Github
 
-Here are some ideas to get you started:
+## Currently Learning:
+AWS Solutions Architect Associate (SAA-C03)
+Cloud infrastructure and automation
+Linux system administration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects:
+[Project 1](https://github.com/Caleb-source101/aws-ec2-nginx-project) - A nginx web server deployed with a bash script over HTTPS.
+
+## Goals:
+Get the AWS Solutions Architect certificate
+Get practical cloud engineering skills
+Build and operate more cloud projects
